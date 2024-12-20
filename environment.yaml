@@ -1,0 +1,17 @@
+name: fashion_trend_forecasting-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scikit-learn
+  - pyyaml
+  - joblib
+  - flask
+  - gunicorn
+  - pytest
+  - streamlit
+  - matplotlib
+  - seaborn
