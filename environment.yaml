@@ -15,3 +15,6 @@ dependencies:
   - streamlit
   - matplotlib
   - seaborn
+  - pip:
+      - sentence_transformers
+      - pyampute
