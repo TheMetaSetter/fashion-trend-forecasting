@@ -168,5 +168,3 @@ cython_debug/
 *.pkl
 *.onnx
 .ipynb_checkpoints
-data/raw/
-data/processed/
